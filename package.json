@@ -1,0 +1,27 @@
+{
+  "name": "pivotal-git-hooks",
+  "version": "1.0.0",
+  "description": "Creates git hook that ensures all commits are tagged with a pivotal tracker number",
+  "main": "index.js",
+  "scripts": {
+    "install": "node install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/costacruise/pivotal-git-hooks"
+  },
+  "keywords": [
+    "pivotal",
+    "tracker",
+    "git",
+    "github",
+    "hook",
+    "scm"
+  ],
+  "author": "Roy Lines <roy@roylines.co.uk> (http://roylines.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/costacruise/pivotal-git-hooks/issues"
+  },
+  "homepage": "https://github.com/costacruise/pivotal-git-hooks#readme"
+}
